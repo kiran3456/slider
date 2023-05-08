@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Important Instruction for Slider App
+
+1. Check these tools are installed
+
+- npm
+- npx
+- git
+- vs code
+- vs code extention ES7
+
 ## Available Scripts
 
 In the project directory, you can run:
